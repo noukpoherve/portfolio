@@ -433,6 +433,9 @@ strong {
     cursor: pointer;
     transition: var(--transition);
 }
+.nav-links .btn {
+    padding: 0.275rem 1.75rem;
+}
 
 .btn-primary {
     background: var(--light-primary);
